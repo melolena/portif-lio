@@ -12,27 +12,24 @@ no início e no nav, tem uma breve apresentação com uma imagem desfocada para 
 <h2>Habilidades</h2>
 <img src="https://github.com/melolena/portif-lio/assets/89108304/24b098e7-e8a8-4968-b427-f61c81b47d82">
 eu ainda preciso evoluir bastante, mas  pontuei onde tenho um menor domínio em questão de habilidades, com os dados, acho que é melhor do que com palavras
-<h2>Experiência</h2>
-<img src="https://github.com/melolena/portif-lio/assets/89108304/f0543535-2ccd-4d31-8507-e16b6f0d550d"><br>
-<img src="https://github.com/melolena/portif-lio/assets/89108304/ec52790a-8080-40ae-9774-a5ff747a579d"><br>
-Não quis adicionar um campo de formação, mas sim de experiência, porque eu consigo preencher mais campos e deixar tudo mais completo quanto a esse quesito, além de do modelo de timeline, pontiar a data e ser bem dinâmico
+<h2>Formação</h2>
+<img src="https://github.com/melolena/portif-lio/assets/89108304/c5f31841-53b7-445c-b1e2-7951a400e310">
+Adicionei o modelo de timeline, para pontuar a data e ser bem dinâmico
 <h2>Footer</h2>
 <img src="https://github.com/melolena/portif-lio/assets/89108304/61b09a4f-2096-4aea-948e-f9a7c5380864">
 Como o meu menu é fixo e nele tem as opções de contato apenas deixei o copyright no footer
 
 <h1>Responsividade</h1>
 Algumas alterações foram feitas, para quando usassem o telefone a experiêncie com o visitante fosse a melhor
-<h2>NAVMENU</h2>
-<img src="https://github.com/melolena/portif-lio/assets/89108304/75fe8044-3d50-472b-a3a8-2e2d8a4c9617"><br>
+<img src="https://github.com/melolena/portif-lio/assets/89108304/2a07ea55-e83e-4d03-938e-3ac3691f2c1c">
+
+<h3>NAVMENU</h3>
 O menu deixou de ser fixo, e a aba de contato e a logo foram para o footer
 
-<h2>Experiência</h2>
-<img src="https://github.com/melolena/portif-lio/assets/89108304/cb9558f9-403b-430a-9e26-cf0227225f5a"> <br>
-<img src="https://github.com/melolena/portif-lio/assets/89108304/17cb2878-b801-4b70-8da1-a0fad95ae79f"><br>
-Outra aba que foi mudada, foi a de experiência já que o timeline, em formato de celular não se adaptava corretamente. Tentei deixar semelhante ao que tinha feito 
+<h3>Formação</h3>
+Outra aba que foi mudada, foi a de Formação já que o timeline, em formato de celular não se adaptava corretamente. Tentei deixar semelhante ao que tinha feito 
 
-<h2>Footer</h2>
-<img src="https://github.com/melolena/portif-lio/assets/89108304/130c9188-a267-456a-93a0-e3bd99f0b3d6">
+<h3>Footer</h3>
 Como mencionado anteriormente o footer foi modificado para receber os elementos que foram removidos do menu
 
 
