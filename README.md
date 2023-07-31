@@ -32,4 +32,10 @@ Outra aba que foi mudada, foi a de Formação já que o timeline, em formato de 
 <h3>Footer</h3>
 Como mencionado anteriormente o footer foi modificado para receber os elementos que foram removidos do menu
 
+<h1>PDF</h1>
+[Captura da Web_31-7-2023_1775_milena-melo.soukick.com.br.pdf](https://github.com/melolena/portif-lio/files/12221886/Captura.da.Web_31-7-2023_1775_milena-melo.soukick.com.br.pdf)
+
+
+<h1>Link Drive</h1>
+[link drive] https://drive.google.com/file/d/1-4Vto3oQaqd9U1ZiCXek6MI64DtA_myu/view?usp=drive_link
 
